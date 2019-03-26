@@ -1,0 +1,24 @@
+.Dashboard {
+    text-align: center;
+}
+
+.Players {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+}
+.DasboardButton {
+	background-color: #0000AA; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px;
+  cursor: pointer;
+
+}

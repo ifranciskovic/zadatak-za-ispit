@@ -1,0 +1,31 @@
+.Player {
+    width: 250px;
+    padding: 16px;
+    text-align: center;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    margin: 10px;
+    box-sizing: border-box;
+	color:rgb(61, 53, 53);
+    cursor:pointer; 
+    background-color:#EEE;
+    font-family: 'Oxygen', sans-serif;
+     
+}
+h5 {
+    font-size: 18px;
+    font-weight: 300;
+    color:rgb(61, 53, 53);
+}
+h2 {
+    font-size: 22px; 
+    font-weight: 500;
+}
+
+
+.Player:hover,
+.Player:active {
+    background-color: #C0DDF5;
+}
+
+
